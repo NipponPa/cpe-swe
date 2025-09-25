@@ -1,2 +1,5 @@
 arno is handsome;
-arno is short
+arno is smart;
+arno is funny;
+arno is kind;
+arno is strong; 
